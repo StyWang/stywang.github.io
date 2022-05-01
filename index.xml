@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>StyWang&#39;s Blog</title>
+    <link>https://stywang.github.io/</link>
+    <description>Recent content on StyWang&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Apr 2022 11:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://stywang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TEST: OO Unit1</title>
+      <link>https://stywang.github.io/test/oounit1/</link>
+      <pubDate>Fri, 01 Apr 2022 11:00:00 +0000</pubDate>
+      
+      <guid>https://stywang.github.io/test/oounit1/</guid>
+      <description>第一单元总结 作业分析 本单元三次作业的任务是，输入一个满足形式化定义的字符串$Expre$，按数学意义将其解读，并拆去所有括号。可能含有自定义</description>
+    </item>
+    
+    <item>
+      <title>TEST: Vim Tips</title>
+      <link>https://stywang.github.io/test/vim/</link>
+      <pubDate>Fri, 09 Feb 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://stywang.github.io/test/vim/</guid>
+      <description>&lt;h2 id=&#34;vim-graphical-cheat-sheet&#34;&gt;vim graphical cheat sheet&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;//img/2018-02-09-vim-tips/vi-vim-cheat-sheet.svg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://stywang.github.io/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stywang.github.io/search/placeholder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://stywang.github.io/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stywang.github.io/top/about/</guid>
+      <description>Huabing Zhao is an ICT veteran with a passion for open source. He has a solid experience in the telecommunication and information technology industry for more than 17 years. Throughout his career, he has built a number of large-scale, cross-country OSS/BSS platforms/systems and operation tools, most of them are still running in productions. He loves open source and has been contributing to a variety of open source projects, including Istio(Service</description>
+    </item>
+    
+    <item>
+      <title>Posts Archive</title>
+      <link>https://stywang.github.io/top/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stywang.github.io/top/archive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
